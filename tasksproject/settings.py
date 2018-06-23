@@ -33,6 +33,7 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
     'rest_framework', # TODO
     'api', # TODO
+    # 'braces',
     'tasksapp',
     'django.contrib.admin',
     'django.contrib.auth',
